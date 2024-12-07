@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mms142-groupm-2024.github.io/sitemap.xml
+Sitemap: https://eneko20.github.io/clone-siite//sitemap.xml
