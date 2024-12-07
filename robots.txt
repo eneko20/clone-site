@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eneko20.github.io/clone-siite//sitemap.xml
+Sitemap: https://eneko20.github.io/clone-site//sitemap.xml
